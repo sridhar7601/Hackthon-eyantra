@@ -1,0 +1,29 @@
+.footer {
+  background-color:transparent;
+  align-items: center;
+  vertical-align: center;
+  width: 100%;
+  margin-top: 21em;
+  height: 40px;
+  padding-top: 18px;
+}
+.footer a {
+  align-self: flex-end;
+  margin-left: 40px;
+  justify-content: center;
+  color: gray;
+  border: 3px solid red;
+  border-radius: 10px;
+  border-spacing: 1em;
+  margin-top:1em;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: monospace;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.footer a:hover{
+  color:greenyellow;
+}

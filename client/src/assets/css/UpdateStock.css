@@ -1,0 +1,40 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.dashboard h1 {
+  font-family: monospace;
+  font-size: 45px;
+  color: rgb(165, 59, 59);
+}
+
+.update-blood-table th {
+  font-size: 25px;
+  font-family: monospace;
+  padding-left: 1em;
+  padding-right: 1em;
+  color: rgb(51, 17, 11);
+}
+.update-blood-table td {
+  font-size: 20px;
+  font-family: monospace;
+  border: 2px solid black;
+  text-align: center;
+}
+.update-blood-table input{
+ height: 40px;
+ width: 60px;
+ -webkit-appearance: none;
+ align-items: center;
+}
+.update-blood-table button{
+  height: 45px;
+  width: auto;
+}
+.update-blood-table button:hover{
+  color: white;
+  background-color: black;
+}
