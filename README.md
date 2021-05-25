@@ -1,26 +1,16 @@
-# BLOOD BANK MANAGEMNET SYSTEM
+Frameworks - ReactJs (frontend)
+Backend    - NodeJs
+DataBase   - MySQL
 
-**Simple Blood Bank Management System implemented as a web application**
-
- **Frameworks - ReactJs (frontend)** <br/>
- **Backend    - NodeJs** <br/>
- **DataBase   - MySQL** <br/>
-
-### Functionality
-
-#### **User**
-
+ Functionality
 - Register & Login
 - donate blood 
 - request blood 
 
-#### **Employee**
-
+Employee
 - Register & Login
 - Update blood stocks
 - update user health
 - Handle blood request
-
-#### **General**
 
 - Search - based on blood group or location
